@@ -1,0 +1,13 @@
+.navOrg {
+    display: flex;
+    justify-content: space-between;
+}
+
+.insideNav{
+    display: flex;
+    align-items: center;
+}
+
+.insideNav > a{
+    margin: 0 3px
+}
